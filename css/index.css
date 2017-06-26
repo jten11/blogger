@@ -1,0 +1,42 @@
+.bg1{
+background-color: red;
+color:white;
+padding:100px;
+text-align:center;
+
+}
+
+.bg2 {
+background-color:#1FB216;
+}
+
+
+
+img{
+width: 75%;
+padding: 10px;
+
+}
+
+section {
+
+
+	
+}
+
+h1 h4 {
+font-family: 'Anton';
+}
+
+h3{
+	font-style: italic;
+}
+
+.footer{
+background-color:black;
+}
+
+
+#blogpost{
+padding: 50%;
+}
